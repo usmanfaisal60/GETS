@@ -1,0 +1,483 @@
+{
+  "Riyadh": [
+    {
+      "asciiname": "Riyadh",
+      "population": 4205961,
+      "location": "https://www.google.com/maps/?q=24.68773,46.72185"
+    },
+    {
+      "asciiname": "Jeddah",
+      "population": 2867446,
+      "location": "https://www.google.com/maps/?q=21.54238,39.19797"
+    },
+    {
+      "asciiname": "Mecca",
+      "population": 1323624,
+      "location": "https://www.google.com/maps/?q=21.42664,39.82563"
+    },
+    {
+      "asciiname": "Medina",
+      "population": 1300000,
+      "location": "https://www.google.com/maps/?q=24.46861,39.61417"
+    },
+    {
+      "asciiname": "Sultanah",
+      "population": 946697,
+      "location": "https://www.google.com/maps/?q=24.49258,39.58572"
+    },
+    {
+      "asciiname": "Dammam",
+      "population": 768602,
+      "location": "https://www.google.com/maps/?q=26.43442,50.10326"
+    },
+    {
+      "asciiname": "Ta'if",
+      "population": 530848,
+      "location": "https://www.google.com/maps/?q=21.27028,40.41583"
+    },
+    {
+      "asciiname": "Tabuk",
+      "population": 455450,
+      "location": "https://www.google.com/maps/?q=28.3998,36.57151"
+    },
+    {
+      "asciiname": "Al Kharj",
+      "population": 425300,
+      "location": "https://www.google.com/maps/?q=24.15541,47.33457"
+    },
+    {
+      "asciiname": "Buraydah",
+      "population": 391336,
+      "location": "https://www.google.com/maps/?q=26.32599,43.97497"
+    },
+    {
+      "asciiname": "Khamis Mushait",
+      "population": 387553,
+      "location": "https://www.google.com/maps/?q=18.3,42.73333"
+    },
+    {
+      "asciiname": "Al Hufuf",
+      "population": 293179,
+      "location": "https://www.google.com/maps/?q=25.36467,49.58764"
+    },
+    {
+      "asciiname": "Al Mubarraz",
+      "population": 290802,
+      "location": "https://www.google.com/maps/?q=25.40768,49.59028"
+    },
+    {
+      "asciiname": "Hafar Al-Batin",
+      "population": 271642,
+      "location": "https://www.google.com/maps/?q=28.43279,45.97077"
+    },
+    {
+      "asciiname": "Ha'il",
+      "population": 267005,
+      "location": "https://www.google.com/maps/?q=27.52188,41.69073"
+    }
+  ],
+  "Makkah": [
+    {
+      "asciiname": "Najran",
+      "population": 258573,
+      "location": "https://www.google.com/maps/?q=17.49326,44.12766"
+    },
+    {
+      "asciiname": "Al Jubayl",
+      "population": 237274,
+      "location": "https://www.google.com/maps/?q=27.0174,49.62251"
+    },
+    {
+      "asciiname": "Abha",
+      "population": 210886,
+      "location": "https://www.google.com/maps/?q=18.21639,42.50528"
+    },
+    {
+      "asciiname": "Yanbu",
+      "population": 200161,
+      "location": "https://www.google.com/maps/?q=24.08954,38.0618"
+    },
+    {
+      "asciiname": "Khobar",
+      "population": 165799,
+      "location": "https://www.google.com/maps/?q=26.27944,50.20833"
+    },
+    {
+      "asciiname": "Arar",
+      "population": 148540,
+      "location": "https://www.google.com/maps/?q=30.97531,41.03808"
+    },
+    {
+      "asciiname": "Sakakah",
+      "population": 128332,
+      "location": "https://www.google.com/maps/?q=29.96974,40.20641"
+    },
+    {
+      "asciiname": "Jizan",
+      "population": 105198,
+      "location": "https://www.google.com/maps/?q=16.88917,42.55111"
+    },
+    {
+      "asciiname": "Qurayyat",
+      "population": 102903,
+      "location": "https://www.google.com/maps/?q=31.33176,37.34282"
+    },
+    {
+      "asciiname": "Dhahran",
+      "population": 99540,
+      "location": "https://www.google.com/maps/?q=26.28864,50.11396"
+    },
+    {
+      "asciiname": "Al Qatif",
+      "population": 98259,
+      "location": "https://www.google.com/maps/?q=26.56542,50.0089"
+    },
+    {
+      "asciiname": "Al Bahah",
+      "population": 88419,
+      "location": "https://www.google.com/maps/?q=20.01288,41.46767"
+    },
+    {
+      "asciiname": "Tarut",
+      "population": 85371,
+      "location": "https://www.google.com/maps/?q=26.5733,50.04028"
+    },
+    {
+      "asciiname": "Qal`at Bishah",
+      "population": 81828,
+      "location": "https://www.google.com/maps/?q=20.00054,42.6052"
+    },
+    {
+      "asciiname": "Ar Rass",
+      "population": 81728,
+      "location": "https://www.google.com/maps/?q=25.86944,43.4973"
+    },
+    {
+      "asciiname": "Ash Shafa",
+      "population": 72190,
+      "location": "https://www.google.com/maps/?q=21.0721,40.31185"
+    }
+  ],
+  "Madinah": [
+    {
+      "asciiname": "Sayhat",
+      "population": 66702,
+      "location": "https://www.google.com/maps/?q=26.48345,50.04849"
+    },
+    {
+      "asciiname": "Al Mithnab",
+      "population": 60870,
+      "location": "https://www.google.com/maps/?q=25.86012,44.22228"
+    },
+    {
+      "asciiname": "Al Khafji",
+      "population": 54857,
+      "location": "https://www.google.com/maps/?q=28.43905,48.49132"
+    },
+    {
+      "asciiname": "Ad Dawadimi",
+      "population": 54474,
+      "location": "https://www.google.com/maps/?q=24.50772,44.39237"
+    },
+    {
+      "asciiname": "Sabya",
+      "population": 54108,
+      "location": "https://www.google.com/maps/?q=17.1495,42.62537"
+    },
+    {
+      "asciiname": "Az Zulfi",
+      "population": 53144,
+      "location": "https://www.google.com/maps/?q=26.29945,44.81542"
+    },
+    {
+      "asciiname": "Abu `Arish",
+      "population": 49171,
+      "location": "https://www.google.com/maps/?q=16.96887,42.83251"
+    },
+    {
+      "asciiname": "Safwa",
+      "population": 45876,
+      "location": "https://www.google.com/maps/?q=26.6497,49.95522"
+    },
+    {
+      "asciiname": "Afif",
+      "population": 45525,
+      "location": "https://www.google.com/maps/?q=23.9065,42.91724"
+    },
+    {
+      "asciiname": "Rabigh",
+      "population": 41759,
+      "location": "https://www.google.com/maps/?q=22.79856,39.03493"
+    },
+    {
+      "asciiname": "Rahimah",
+      "population": 41188,
+      "location": "https://www.google.com/maps/?q=26.70791,50.06194"
+    }
+  ],
+  "Qassim": [
+    {
+      "asciiname": "Turaif",
+      "population": 40819,
+      "location": "https://www.google.com/maps/?q=31.67252,38.66374"
+    },
+    {
+      "asciiname": "Tubarjal",
+      "population": 40019,
+      "location": "https://www.google.com/maps/?q=30.49987,38.21603"
+    },
+    {
+      "asciiname": "Ad Dilam",
+      "population": 35371,
+      "location": "https://www.google.com/maps/?q=23.99104,47.16181"
+    },
+    {
+      "asciiname": "Umm Lajj",
+      "population": 33874,
+      "location": "https://www.google.com/maps/?q=25.02126,37.2685"
+    },
+    {
+      "asciiname": "Al-`Ula",
+      "population": 32413,
+      "location": "https://www.google.com/maps/?q=26.60853,37.92316"
+    },
+    {
+      "asciiname": "Abqaiq",
+      "population": 29474,
+      "location": "https://www.google.com/maps/?q=25.93402,49.6688"
+    },
+    {
+      "asciiname": "Badr Hunayn",
+      "population": 27257,
+      "location": "https://www.google.com/maps/?q=23.78292,38.79047"
+    },
+    {
+      "asciiname": "Samitah",
+      "population": 26945,
+      "location": "https://www.google.com/maps/?q=16.59601,42.94435"
+    }
+  ],
+  "Eastern_Province": [
+    {
+      "asciiname": "Al Wajh",
+      "population": 26636,
+      "location": "https://www.google.com/maps/?q=26.24551,36.45249"
+    },
+    {
+      "asciiname": "Al Bukayriyah",
+      "population": 25153,
+      "location": "https://www.google.com/maps/?q=26.13915,43.65782"
+    },
+    {
+      "asciiname": "An Nimas",
+      "population": 24153,
+      "location": "https://www.google.com/maps/?q=19.14547,42.12009"
+    },
+    {
+      "asciiname": "As Sulayyil",
+      "population": 24097,
+      "location": "https://www.google.com/maps/?q=20.46067,45.57792"
+    },
+    {
+      "asciiname": "Turabah",
+      "population": 23235,
+      "location": "https://www.google.com/maps/?q=21.21406,41.6331"
+    }
+  ],
+  "Asir": [
+    {
+      "asciiname": "Al Jumum",
+      "population": 22207,
+      "location": "https://www.google.com/maps/?q=21.61694,39.69806"
+    },
+    {
+      "asciiname": "Duba",
+      "population": 22000,
+      "location": "https://www.google.com/maps/?q=27.35134,35.69014"
+    },
+    {
+      "asciiname": "At Taraf",
+      "population": 21386,
+      "location": "https://www.google.com/maps/?q=25.36232,49.72757"
+    },
+    {
+      "asciiname": "Qaisumah",
+      "population": 20685,
+      "location": "https://www.google.com/maps/?q=28.31117,46.12729"
+    },
+    {
+      "asciiname": "Al Battaliyah",
+      "population": 16606,
+      "location": "https://www.google.com/maps/?q=25.43333,49.63333"
+    },
+    {
+      "asciiname": "Al Munayzilah",
+      "population": 16296,
+      "location": "https://www.google.com/maps/?q=25.38333,49.66667"
+    }
+  ],
+  "Tabuk": [
+    {
+      "asciiname": "Adh Dhibiyah",
+      "population": 15000,
+      "location": "https://www.google.com/maps/?q=26.027,43.157"
+    },
+    {
+      "asciiname": "Al Majaridah",
+      "population": 14830,
+      "location": "https://www.google.com/maps/?q=19.12361,41.91111"
+    },
+    {
+      "asciiname": "Tanumah",
+      "population": 13594,
+      "location": "https://www.google.com/maps/?q=27.1,44.13333"
+    },
+    {
+      "asciiname": "Al Qurayn",
+      "population": 12013,
+      "location": "https://www.google.com/maps/?q=25.48333,49.6"
+    },
+    {
+      "asciiname": "Umm as Sahik",
+      "population": 11813,
+      "location": "https://www.google.com/maps/?q=26.65361,49.91639"
+    },
+    {
+      "asciiname": "Sajir",
+      "population": 11717,
+      "location": "https://www.google.com/maps/?q=25.18251,44.59964"
+    }
+  ],
+  "Hail": [
+    {
+      "asciiname": "Al Awjam",
+      "population": 11460,
+      "location": "https://www.google.com/maps/?q=26.56324,49.94331"
+    },
+    {
+      "asciiname": "Farasan",
+      "population": 10527,
+      "location": "https://www.google.com/maps/?q=16.70222,42.11833"
+    },
+    {
+      "asciiname": "Al Mindak",
+      "population": 9218,
+      "location": "https://www.google.com/maps/?q=20.1588,41.28337"
+    },
+    {
+      "asciiname": "Al Artawiyah",
+      "population": 9152,
+      "location": "https://www.google.com/maps/?q=26.50387,45.34813"
+    },
+    {
+      "asciiname": "Al Jubayl",
+      "population": 9108,
+      "location": "https://www.google.com/maps/?q=25.4,49.65"
+    },
+    {
+      "asciiname": "Al Qarah",
+      "population": 9106,
+      "location": "https://www.google.com/maps/?q=25.41667,49.66667"
+    },
+    {
+      "asciiname": "Marat",
+      "population": 8885,
+      "location": "https://www.google.com/maps/?q=25.07064,45.45775"
+    },
+    {
+      "asciiname": "Al Jafr",
+      "population": 8715,
+      "location": "https://www.google.com/maps/?q=25.37736,49.72154"
+    },
+    {
+      "asciiname": "Suwayr",
+      "population": 8515,
+      "location": "https://www.google.com/maps/?q=30.11713,40.38925"
+    },
+    {
+      "asciiname": "Tumayr",
+      "population": 8246,
+      "location": "https://www.google.com/maps/?q=25.70347,45.86835"
+    },
+    {
+      "asciiname": "At Tubi",
+      "population": 7740,
+      "location": "https://www.google.com/maps/?q=26.55778,49.99167"
+    },
+    {
+      "asciiname": "Al Jaradiyah",
+      "population": 7396,
+      "location": "https://www.google.com/maps/?q=16.57946,42.9124"
+    },
+    {
+      "asciiname": "Al Muwayh",
+      "population": 7364,
+      "location": "https://www.google.com/maps/?q=22.43333,41.75829"
+    }
+  ],
+  "Northern_Borders": [
+    {
+      "asciiname": "As Saffaniyah",
+      "population": 7014,
+      "location": "https://www.google.com/maps/?q=27.97083,48.73"
+    },
+    {
+      "asciiname": "Al Hada",
+      "population": 6885,
+      "location": "https://www.google.com/maps/?q=21.36753,40.28694"
+    },
+    {
+      "asciiname": "Al Markaz",
+      "population": 6464,
+      "location": "https://www.google.com/maps/?q=25.4,49.73333"
+    }
+  ],
+  "Jizan": [
+    {
+      "asciiname": "Misliyah",
+      "population": 6117,
+      "location": "https://www.google.com/maps/?q=17.45988,42.5572"
+    },
+    {
+      "asciiname": "Al Mutayrifi",
+      "population": 5962,
+      "location": "https://www.google.com/maps/?q=25.47878,49.55824"
+    }
+  ],
+  "Najran": [
+    {
+      "asciiname": "Mizhirah",
+      "population": 5529,
+      "location": "https://www.google.com/maps/?q=16.82611,42.73333"
+    },
+    {
+      "asciiname": "Ad Darb",
+      "population": 5378,
+      "location": "https://www.google.com/maps/?q=17.72285,42.25261"
+    }
+  ],
+  "Bahah": [
+    {
+      "asciiname": "Julayjilah",
+      "population": 5359,
+      "location": "https://www.google.com/maps/?q=25.5,49.6"
+    },
+    {
+      "asciiname": "Mulayjah",
+      "population": 5247,
+      "location": "https://www.google.com/maps/?q=27.27103,48.42419"
+    }
+  ],
+  "Jawf": [
+    {
+      "asciiname": "Al Fuwayliq",
+      "population": 5205,
+      "location": "https://www.google.com/maps/?q=26.4436,43.25164"
+    },
+    {
+      "asciiname": "Tabalah",
+      "population": 5151,
+      "location": "https://www.google.com/maps/?q=19.95,42.4"
+    }
+  ]
+}
