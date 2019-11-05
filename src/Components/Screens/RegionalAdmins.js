@@ -14,7 +14,7 @@ class RegionalAdmins extends React.Component {
             <View style={container}>
                 <TitleHeader icon='regional_admin'>Regional Admins</TitleHeader>
                 <View>
-                    <Text>Count: 5</Text>
+                    <Text>Count: 6</Text>
                 </View>
             </View>
         )
